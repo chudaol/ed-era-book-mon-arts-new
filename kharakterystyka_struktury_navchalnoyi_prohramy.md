@@ -17,7 +17,6 @@
 <p align="center">**Орієнтовна тематична структура програми**
 
 <table>
-<tbody>
 
 <tr>
 <td align="center" valign="top"><b>Клас</b></td>
@@ -107,7 +106,6 @@
 <tr>
 <td valign="top">4.	Образ рідного  краю в мистецтві</td>
 </tr>
-</tbody>
 </table>
 
 
