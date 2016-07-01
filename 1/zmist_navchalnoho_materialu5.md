@@ -1,0 +1,15 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
+##Зміст навчального матеріалу:
+
+*	Розширення уявленнь про декоративне прикрашання форм геометричними елементами. Поєднання силуетної форми та декору.
+
+*	Поняття візерунка та орнаменту (на елементарному рівні). Спрощення форм рослинного світу під час створення орнаменту.
+
+*	Створення декоративного образу із суцільного шматка пластиліну. Елементарна узгодженість об’ємної форми та декору.
+
+
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>
