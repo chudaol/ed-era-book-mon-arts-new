@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-#Тема 2.  У майстернях скульптора, архітектора і  народних майстрів (7 годин)
+#Тема 2.  У майстернях скульптора, архітектора і  народних майстрів
 
 **Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu2.md)

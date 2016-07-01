@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Тема 4.  Цілісність форми у скульптурі та архітектурі (4 години)
+# Тема 4.  Цілісність форми у скульптурі та архітектурі
 
 **Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu4.md)

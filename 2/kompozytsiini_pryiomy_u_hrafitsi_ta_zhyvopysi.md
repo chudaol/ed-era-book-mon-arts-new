@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-#Тема 3.  Композиційні прийоми у графіці та живописі (9 годин)
+#Тема 3.  Композиційні прийоми у графіці та живописі
 
 **Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu3.md)

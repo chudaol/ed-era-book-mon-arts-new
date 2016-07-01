@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-#Тема 1.  Мова графіки та живопису (8 годин)
+#Тема 1.  Мова графіки та живопису
 
 **Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu1.md)

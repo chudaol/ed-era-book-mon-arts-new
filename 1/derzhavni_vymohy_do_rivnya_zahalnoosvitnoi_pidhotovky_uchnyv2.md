@@ -81,9 +81,6 @@
 </tbody>
 </table>
 
-<h5>Узагальнення – 1 год</h5>
-
-
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

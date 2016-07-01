@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Тема 2.  Елементарні засоби компонування простих форм (7 годин)
+# Тема 2.  Елементарні засоби компонування простих форм 
 
 **Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu2.md)

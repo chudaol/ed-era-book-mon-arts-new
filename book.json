@@ -1,6 +1,6 @@
 {
     "gitbook": ">=3.0.0-pre.11",
-    "title": "Математика",
+    "title": "Образотворче мистецтво",
     "plugins": ["-search", "fontsettings", "sharing", "addcssjs", "quiz", "mathjax", "-comments"],
     "pluginsConfig": {
         "theme-default": {

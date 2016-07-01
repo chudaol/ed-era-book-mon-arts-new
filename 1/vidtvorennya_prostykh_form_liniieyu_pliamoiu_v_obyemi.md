@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-#Тема 1.  Відтворення простих форм лінією, плямою, в об’ємі (8 годин)
+#Тема 1.  Відтворення простих форм лінією, плямою, в об’ємі
 
 **Зміст розділу:**
 *	[Зміст навчального матеріалу](zmist_navchalnoho_materialu1.md)
